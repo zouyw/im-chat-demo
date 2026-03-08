@@ -162,3 +162,4 @@ MIT License
 ---
 
 *Created with ❤️ for IM Chat Demo*
+# im-chat-demo
