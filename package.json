@@ -1,0 +1,23 @@
+{
+  "name": "im-chat-demo",
+  "version": "1.0.0",
+  "description": "一个精美的 IM 即时通讯前端 Demo，支持消息发送、自动回复、快捷回复等功能。",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx vercel dev",
+    "build": "echo 'Static site, no build needed'",
+    "deploy": "npx vercel --prod",
+    "deploy:preview": "npx vercel"
+  },
+  "keywords": [
+    "im",
+    "chat",
+    "demo",
+    "frontend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vercel": "^39.3.0"
+  }
+}
